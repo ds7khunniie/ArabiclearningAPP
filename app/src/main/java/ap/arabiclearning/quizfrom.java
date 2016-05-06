@@ -1,5 +1,6 @@
 package ap.arabiclearning;
 
+<<<<<<< HEAD
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -281,4 +282,10 @@ public class quizfrom extends Activity {
             alertDialog.show();
         }
     }
+=======
+/**
+ * Created by Dowopen on 28/4/2559.
+ */
+public class quizfrom {
+>>>>>>> github/master
 }

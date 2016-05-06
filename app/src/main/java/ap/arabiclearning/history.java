@@ -1,5 +1,6 @@
 package ap.arabiclearning;
 
+<<<<<<< HEAD
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -81,3 +82,12 @@ public class history extends BaseActivity {
         startActivity(aaa);
     }
 }
+=======
+import android.app.Activity;
+
+/**
+ * Created by Dowopen on 28/4/2559.
+ */
+public class history extends Activity{
+}
+>>>>>>> github/master

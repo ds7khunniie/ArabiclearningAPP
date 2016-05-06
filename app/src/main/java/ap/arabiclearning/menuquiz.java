@@ -1,5 +1,6 @@
 package ap.arabiclearning;
 
+<<<<<<< HEAD
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -30,4 +31,10 @@ public class menuquiz extends Activity{
         Intent bb = new Intent(getApplicationContext(), ap.arabiclearning.history.class);
         startActivity(bb);
     }
+=======
+/**
+ * Created by Dowopen on 28/4/2559.
+ */
+public class menuquiz {
+>>>>>>> github/master
 }
